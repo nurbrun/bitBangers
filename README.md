@@ -29,10 +29,10 @@ Built using an ERC721 tutorial: https://www.youtube.com/watch?v=YPbgjPPC1d0&ab_c
 
 **Frameworks/libraries/standards used**
 
-ERC 721 Standard: https://eips.ethereum.org/EIPS/eip-721
-Openzepplin-contracts: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol
-web3.js: https://github.com/ChainSafe/web3.js/tree/v1.3.4
-Ganache: https://github.com/trufflesuite/ganache
-ReactJS (16.8.4): https://github.com/facebook/react/tree/16.8.4
+- ERC 721 Standard: https://eips.ethereum.org/EIPS/eip-721
+- Openzepplin-contracts: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol
+- web3.js: https://github.com/ChainSafe/web3.js/tree/v1.3.4
+- Ganache: https://github.com/trufflesuite/ganache
+- ReactJS (16.8.4): https://github.com/facebook/react/tree/16.8.4
 
 *Compatible with MetaMask wallets.
