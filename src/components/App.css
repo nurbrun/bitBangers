@@ -1,0 +1,57 @@
+/* Styles go here */
+.nav-link{
+  right: 15px;
+  position: relative;
+}
+.token{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.banger{
+  width: 250px;
+  height: 150px;
+  margin: auto;
+  position: relative;
+}
+.roof{
+  height: 55px;
+  background: black;
+  width: 120px;
+  margin: auto;
+  border-top-right-radius: 60px;
+  border-top-left-radius: 15px;
+}
+.body{
+  height: 75px;
+  background: red;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 5px;
+}
+.tire{
+  height: 65px;
+  width: 65px;
+  background: black;
+  bottom: 0px;
+  position: absolute;
+  border-radius: 50px;
+}
+.rim{
+  width: 65%;
+  height: 65%;
+  background: #d2d2d2;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 50px;
+}
+.left{
+  left: -5px;
+}
+.right{
+  right: -5px;
+}
